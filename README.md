@@ -1,16 +1,15 @@
-# car_price
+# Comparauto
 
-Tenta prever o preço de um carro em dólar, baseado nas especificações
+Para utilizar o Comparauto, siga os seguintes passos:
 
-## Getting Started
+1.  Acesse o site https://comparauto.netlify.app/
+2.  Preencha o formulário com as características do veículo que deseja analisar.
+3.  Clique no botão de submissão do formulário.
 
-This project is a starting point for a Flutter application.
+Após a realização desses passos, o sistema realizará a análise das informações fornecidas e retornará o preço estimado do veículo. É importante lembrar que o valor sugerido pelo sistema é apenas uma referência e deve ser utilizado como um guia para auxiliar na tomada de decisão da montadora.
 
-A few resources to get you started if this is your first Flutter project:
+# Membros da equipe
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Raul Vilar
+- Geovanne Atanazio
+- Lucas Silva
