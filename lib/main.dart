@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:car_price/js_controller.dart';
+import 'package:Comparauto/js_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:js/js_util.dart';
 import 'dart:convert';
