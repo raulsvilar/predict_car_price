@@ -1,4 +1,4 @@
-name: car_price
+name: Comparauto
 description: Tenta prever o preço de um carro em dólar, baseado nas especificações
 
 # The following line prevents the package from being accidentally published to
